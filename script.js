@@ -1,52 +1,45 @@
 var testing = location.hostname===''||location.hostname==='localhost',
 	  articles = {
-	projects:{title:'Projects',text:['A collection of projects that I have done in the last few years.'],
+	projects:{title:'Projecten',text:['Een aantal dingen die ik heb gemaakt.'],
 	sections:
 	  [
 	    {
-	      title:'ContentMine Fellowship',
-	      link:['http://contentmine.org/','https://github.com/larsgw/contentmine-fellowship'],
+	      title:'Muziek',
 	      img:'img/slider_img-07.png',
 	      text:[
-		'',
-		'<a href="https://github.com/larsgw/contentmine-fellowship">Repository</a><br>'+
-		'<a href="http://contentmine.org/fellows">ContentMine website</a><br>'+
-		'<a href="https://larsgw.blogspot.nl/2016/08/contentmine-fellowship.html">Blogpost</a>'
+		'Met het programma Fruityloops 12 en Musescore heb ik een aantal kleine composities gemaakt.',
+		'<a href="https://drive.google.com/open?id=0B0dKf41Li88gS2lDMU91akxxNEU">Opus prime</a><br>'+
+		'<a href="https://drive.google.com/open?id=0B0dKf41Li88gbTFURDlxLWIzR1U">Polyushka-Polye</a><br>'+
+		'<a href="https://drive.google.com/open?id=0B0dKf41Li88gb0ttdW1WR0tWdFU">Klein probeersel</a>'
 	      ]
 	    },
 	    {
-	      title:'Citation.js',
-	      link:['https://larsgw.github.io/citation.js/','https://github.com/larsgw/citation.js/'],
+	      title:'Kartonnen AT-AT',
 	      img:'img/slider_img-02.png',
 	      text:[
-		'A JS library converting several sources like JSON, Wikidata and BibTeX to CSL-JSON.',
-		'<a href="https://github.com/larsgw/citation.js">Repository</a><br>'+
-		'<a href="https://larsgw.github.io/citation.js/">Demos</a><br>'+
-		'<a href="https://larsgw.github.io/citation.js/api/">Docs</a>'
+		'In twee uur gemaakt, alleen van karton en servomotoren.',
+		'<a href="https://drive.google.com/open?id=0B0dKf41Li88gd09GQWFycU83eHM">Video</a><br>'
 	      ]
 	    },
 	    {
-	      title:'Cardlists',
-	      link:['https://larsgw.github.io/ctj-cardlists','https://github.com/larsgw/ctj-cardlists'],
+	      title:'Werkplek van de toekomst',
+	      link:['https://twitter.com/heijmansnl/status/743503579969880070'],
 	      img:'img/slider_img-08.png',
 	      text:[
-	        '',
-		'<a href="https://github.com/larsgw/ctj-cardlists">Repository</a><br>'+
-		'<a href="https://larsgw.github.io/ctj-cardlists">Demo</a>'
+	        'Voor Heijmans ontwierpen we een werkplek van de toekomst, en ons idee kwam als beste naar voren, waarna we het mochten presenteren in het NMM.',
+		'<a href="https://twitter.com/heijmansnl/status/743503579969880070>Tweet van Heijmans</a><br>'+
+		'<a href="https://drive.google.com/open?id=0BxiIlO7qIuDjUmJJMmMwVmxaOVE">Video</a>'
 	      ]
 	    },
 	    {
-	      title:'Factvis',
-	      link:['https://larsgw.github.io/factvis','https://github.com/larsgw/factvis'],
+	      title:'IJSO',
 	      img:'img/slider_img-09.jpg',
 	      text:[
-	        'Visualizing <a href="http://contentmine.org">ContentMine</a> facts (port of <a href="https://github.com/tarrow">tarrow</a>)',
-		'<a href="https://github.com/larsgw/factvis">Repository</a><br>'+
-		'<a href="https://larsgw.github.io/factvis">Demo</a>'
+	        'Bij de Internationale Junior Science Olympiad eindigde ik in de nationale eindronde op de 9e plek.',
 	      ]
 	    },
 	    {
-	      title:'InlinEdit',
+	      title:'TTA',
 	      link:['https://larsgw.github.io/InlinEdit/','https://github.com/larsgw/inlinedit/'],
 	      img:'img/slider_img-06.png',
 	      text:[
