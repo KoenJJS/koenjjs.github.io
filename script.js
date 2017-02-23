@@ -5,7 +5,6 @@ var testing = location.hostname===''||location.hostname==='localhost',
 	  [
 	    {
 	      title:'Muziek',
-	      img:'img/slider_img-07.png',
 	      text:[
 		'Met het programma Fruityloops 12 en Musescore heb ik een aantal kleine composities gemaakt.',
 		'<a href="https://drive.google.com/open?id=0B0dKf41Li88gS2lDMU91akxxNEU">Opus prime</a><br>'+
@@ -15,7 +14,6 @@ var testing = location.hostname===''||location.hostname==='localhost',
 	    },
 	    {
 	      title:'Kartonnen AT-AT',
-	      img:'img/slider_img-02.png',
 	      text:[
 		'In twee uur gemaakt, alleen van karton en servomotoren.',
 		'<a href="https://drive.google.com/open?id=0B0dKf41Li88gd09GQWFycU83eHM">Video</a><br>'
@@ -24,16 +22,14 @@ var testing = location.hostname===''||location.hostname==='localhost',
 	    {
 	      title:'Werkplek van de toekomst',
 	      link:['https://twitter.com/heijmansnl/status/743503579969880070'],
-	      img:'img/slider_img-08.png',
 	      text:[
 	        'Voor Heijmans ontwierpen we een werkplek van de toekomst, en ons idee kwam als beste naar voren, waarna we het mochten presenteren in het NMM.',
-		'<a href="https://twitter.com/heijmansnl/status/743503579969880070>Tweet van Heijmans</a><br>'+
+		'<a href="https://twitter.com/heijmansnl/status/743503579969880070">Tweet van Heijmans</a><br>'+
 		'<a href="https://drive.google.com/open?id=0BxiIlO7qIuDjUmJJMmMwVmxaOVE">Video</a>'
 	      ]
 	    },
 	    {
 	      title:'IJSO',
-	      img:'img/slider_img-09.jpg',
 	      text:[
 	        'Bij de Internationale Junior Science Olympiad eindigde ik in de nationale eindronde op de 9e plek.',
 	      ]
