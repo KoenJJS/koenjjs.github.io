@@ -37,7 +37,7 @@ var testing = location.hostname===''||location.hostname==='localhost',
 	      text:[
 	        'Bij de Internationale Junior Science Olympiad eindigde ik in de nationale eindronde op de 9e plek.',
 	      ]
-	    },
+	    }
 	  ]
 	}
       };
