@@ -37,6 +37,13 @@ var testing = location.hostname===''||location.hostname==='localhost',
 	      text:[
 	        'Bij de Internationale Junior Science Olympiad eindigde ik in de nationale eindronde op de 9e plek.',
 	      ]
+	    },
+            {
+	      title:'IJSO',
+	      text:[
+		      'Bij de Technasium Top Award van 2015 werd ik met mijn groepje tweede, achteraf bleek dat de eerste plaats onterecht niet naar ons was gegaan.'
+	              'a href="https://www.facebook.com/technasiumtop/posts/914207188599945">Link</a>'
+	      ]
 	    }
 	  ]
 	}
