@@ -39,10 +39,10 @@ var testing = location.hostname===''||location.hostname==='localhost',
 	      ]
 	    },
             {
-	      title:'IJSO',
+	      title:'TTA',
 	      text:[
 		      'Bij de Technasium Top Award van 2015 werd ik met mijn groepje tweede, achteraf bleek dat de eerste plaats onterecht niet naar ons was gegaan.',
-	              'a href="https://www.facebook.com/technasiumtop/posts/914207188599945">Link</a>'
+	              '<a href="https://www.facebook.com/technasiumtop/posts/914207188599945">Link</a>'
 	      ]
 	    }
 	  ]
